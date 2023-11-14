@@ -1,4 +1,4 @@
-package com.sunrise.sunrisellc.contact;
+package com.sunrise.sunrisellc.message;
 
 import java.util.UUID;
 

@@ -1,4 +1,4 @@
-package com.sunrise.sunrisellc.contact;
+package com.sunrise.sunrisellc.message;
 
 import java.net.URI;
 import java.util.List;
